@@ -22,7 +22,7 @@ import {
   isNotInSameDay,
 } from '../../../util/common';
 
-import Text from '../../atoms/text/Text';
+import {Text} from '../../atoms/text/Text';
 import RawIcon from '../../atoms/system-icons/RawIcon';
 import Header, { TitleWrapper } from '../../atoms/header/Header';
 import Avatar from '../../atoms/avatar/Avatar';
